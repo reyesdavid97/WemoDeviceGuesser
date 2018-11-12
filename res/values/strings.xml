@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WemoApp</string>
+    <string name="defaultText">Wemo Switch Status: Unknown \n Press a button!</string>
+</resources>
